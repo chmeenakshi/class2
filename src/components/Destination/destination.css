@@ -1,0 +1,13 @@
+.card-user-card-container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+   
+}
+.img1
+{
+    width:235px;
+    height:175px;
+}

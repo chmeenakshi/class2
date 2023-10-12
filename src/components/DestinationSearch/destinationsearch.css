@@ -1,0 +1,24 @@
+.img2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color: black;
+}
+
+.search-icon{
+    height: 30px;
+    width: 30px;
+    margin-left: 200px;
+    padding-right: 20px;
+    text-align: center;
+    
+}
+.destination-cont{
+    background-color: rgb(146, 144, 142);
+    width: 50%;
+    margin-bottom: 20px;
+}
